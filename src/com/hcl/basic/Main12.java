@@ -7,5 +7,6 @@ public class Main12 {
         int userInput = obj.nextInt();
         
         System.out.println((userInput%13==0)?"yes":"no");
+        obj.close();
     }
 }
