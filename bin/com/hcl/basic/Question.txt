@@ -281,16 +281,106 @@ Sample Output:
 XOE CD
 
 ---------------------------------------------------------------------------------------------
-13.
+18.
+Problem Statement:
+Given 2 numbers N,M find the GCD of N and M.If it cannot be found for given number(s) then print -1
+
+
+Sample Input:
+10 5
+
+
+Sample Output:
+5
 
 ---------------------------------------------------------------------------------------------
-13.
+19.
+Problem Statement:
+Write a program to calculate the total surface area and volume of cuboid.
+
+
+Input Description:
+Input contains three space separated positive integers L, B, H denoting the length, width and height of cuboid respectively.
+
+
+Output Description:
+The output should be the total surface area and volume of the cuboid, separated by a space.
+
+
+Sample Input:
+1 2 3
+
+
+Sample Output:
+22 6
+
+
 
 ---------------------------------------------------------------------------------------------
-13.
+20.
+Problem Statement:
+Given a number N, print its reverse.
+
+
+Input Description:
+Input Size : n <= 1000
+
+
+Sample Input:
+10
+
+
+Sample Output:
+1
 
 ---------------------------------------------------------------------------------------------
-13.
+22.
+
+Problem Statement:
+Given 3 numbers a,b,c print a*b mod c.
+
+
+Sample Input:
+5 3 2
+
+
+Sample Output:
+1
+---------------------------------------------------------------------------------------------
+23.
+
+Problem Statement:
+Given a number N, print the product of the digits.
+
+
+Input Description:
+Input Size : N <= 100000000000
+
+
+Sample Input:
+2143
+
+
+Sample Output:
+24
+
+
+---------------------------------------------------------------------------------------------
+24.
+Problem Statement:
+Given 3 numbers A,B,C find the sum of Arithmetic Series with a=A, d=B and n=C
+
+
+Sample Input:
+1 1 2
+
+
+Sample Output:
+3
+
+
+---------------------------------------------------------------------------------------------
+21.
 
 ---------------------------------------------------------------------------------------------
 
@@ -317,9 +407,40 @@ Sample Output:
 
 
 ---------------------------------------------------------------------------------------------
-3.
+26.
+Problem Statement:
+Given 2 numbers N and K followed by elements of N .Print 'yes' if K exists else print 'no'.
+
+
+Input Description:
+The input consists of two integers, N and K, followed by N integers.
+
+
+Output Description:
+The output is 'yes' if K is found among the N integers, otherwise 'no'.
+
+
+Sample Input:
+4 2
+1 2 3 3
+
+
+Sample Output:
+yes
 ---------------------------------------------------------------------------------------------
-3.
+27.
+
+Problem Statement:
+Given 2 numbers N and K followed by N elements,print the number of repetition of K otherwise print '-1' if the element not found.
+
+
+Sample Input:
+6 2
+1 2 3 5 7 8
+
+
+Sample Output:
+1
 ---------------------------------------------------------------------------------------------
 28.
 
@@ -346,6 +467,22 @@ hello world
 
 Sample Output:
 hello world
+---------------------------------------------------------------------------------------------
+30.
+Problem Statement:
+Given a number N, find the nearest greater multiple of 10.
+
+
+Input Description:
+Input Size : N <= 10000
+
+
+Sample Input:
+3
+
+
+Sample Output:
+10
 ---------------------------------------------------------------------------------------------
 
 31.
@@ -396,7 +533,30 @@ Sample Input:
 Sample Output:
 2
 ---------------------------------------------------------------------------------------------
+34.
+
+Problem Statement:
+Given 2 numbers N and K followed by N elements, find the Kth smallest element. If the element cannot be found then print -1
+
+
+Input Description:
+The input consists of two numbers N and K, followed by N elements. N <= 100000.
+
+
+Output Description:
+The output is the Kth smallest element. If the element cannot be found, print -1.
+
+
+Sample Input:
+5 2
+1 1 2 4 5
+
+
+Sample Output:
+2
+---------------------------------------------------------------------------------------------
 35.
+
 Problem Statement:
 Given a string S, find its length(including the spaces)without using any pre-defined functions.
 
